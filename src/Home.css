@@ -1,0 +1,31 @@
+.A{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 7em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-combine-upright: ; */
+    /* text-shadow: 5px 5px rgb(253, 6, 6); */
+}
+.B
+{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background: transparent;
+    border: 3.5px solid rgb(255, 255, 255);
+    font-weight: bold;
+    color: white;
+    /* align-items: center; */
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}

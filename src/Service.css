@@ -1,0 +1,44 @@
+.l
+{
+    background-color: lightgoldenrodyellow;
+    
+}
+.l h1
+{
+    text-align: center;
+}
+
+.b
+{
+    display: flex;
+}
+.c{
+    display: flex;
+}
+
+.c
+{
+    justify-content: space-evenly;
+}
+.b
+{
+    justify-content: space-evenly;
+}
+.img1
+{
+    height: 20px;
+    width: 20px;
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

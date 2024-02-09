@@ -1,0 +1,41 @@
+.one
+{
+    background-color: lightcyan;
+    /* justify-content: space-evenly; */
+}
+/* .one img:hover
+{
+    border: 5px solid black;
+} */
+.two,.three,.four
+{
+    margin-left: 60px;
+}
+
+.one img
+{
+    height: 360px;
+    width: 420px;
+}
+h1
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.two img:hover
+{
+    border: 5px solid black;
+}
+.three img:hover
+{
+    border: 5px solid black;
+}
+.four img:hover
+{
+    border: 5px solid black;
+}
+
+.a
+{
+    justify-content: space-evenly;
+}

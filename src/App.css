@@ -1,0 +1,26 @@
+.new
+{
+    display: flex;
+    float: left;
+    min-height: 70px;
+    background-color: rgb(74, 123, 143);
+    width: 100%;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+}
+
+.new li
+{
+    font-weight: bold; 
+    font-size: 20px;  
+}
+.two
+{
+    color: black;
+    text-decoration: none;
+}
+.two:hover
+{
+    color: white;
+}

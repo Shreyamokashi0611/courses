@@ -1,0 +1,38 @@
+.about
+{
+    padding-top: 250px;
+    width: 40%;
+    /* background-color: rgb(245, 245, 212); */
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 750px;
+}
+.about h1
+{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+/* .about h2
+{
+    color: white;
+} */
+.about h5
+{
+    color: rgb(0, 0, 0);
+}
+.about p
+{
+    color: rgb(175, 175, 175);
+}
+.about button
+{
+    border: 3px solid rgb(0, 0, 0);
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: black;
+    background-color: white;
+
+}
